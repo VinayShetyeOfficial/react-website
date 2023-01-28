@@ -1,3 +1,7 @@
+<strong>Link to the site:</strong> https://thunderous-lolly-0fdefc.netlify.app/contact
+<hr>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
