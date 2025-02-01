@@ -1,10 +1,6 @@
-# React Website
+# React Website [[Live Preview](https://warm-daifuku-966505.netlify.app/)]
+
 ![React-Website](https://github.com/VinayShetyeOfficial/React-Website/assets/100470361/a72a9e96-9f70-49d1-8c9f-3f80d59456e4)
-
-
-### Links
-
-Live Site URL: [Preview](https://warm-daifuku-966505.netlify.app/)
 
 # React-Website
 
